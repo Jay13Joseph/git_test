@@ -1,1 +1,2 @@
 Testing git in VScode
+Using integrated terminal
