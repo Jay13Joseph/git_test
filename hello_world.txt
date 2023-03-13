@@ -1,3 +1,4 @@
 Testing git in VScode
 Using integrated terminal
 #remove quote from commit message
+#correct misspelling
